@@ -1,0 +1,11 @@
+Admin:
+
+Email: admin@rydon.com
+
+Password: admin123
+
+Customer:
+
+Email: john@example.com
+
+Password: john123
